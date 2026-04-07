@@ -11,3 +11,6 @@ Errei, nâo era relacionado ao git show, mas sim ao Git Diff
 Que tem como função ver as modificações antes de commitar
 
 Git diff --name-only
+
+Palmeiras
+
